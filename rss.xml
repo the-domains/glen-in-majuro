@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Glen in Majuro]]></title>
+        <description><![CDATA[Glen in Majuro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 23:16:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Distribution Room]]></title>
+            <description><![CDATA[<article><h1>Distribution Room</h1><p>This is the first step of distribution from here the power goes down the three different power lines and begins it journey to the customers house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07f7e92f6a1dba2db6a92adef3778e796bb04f6.jpg"></article>]]></description>
+            <link>undefineddistribution-room/index.html</link>
+            <guid isPermaLink="false">68536635-142c-4830-b6a3-325f8634deff</guid>
+            <pubDate>Fri, 08 Jan 2016 23:16:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
