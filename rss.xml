@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Glen in Majuro]]></title>
         <description><![CDATA[Glen in Majuro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/glen-in-majuro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 23:16:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 22:49:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/glen-in-majuro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Perishing Of Thirst In A Pacific Paradise]]></title>
+            <description><![CDATA[<article><h1>Perishing Of Thirst In A Pacific Paradise</h1><p>This past weekend we have traded our scorching sun for a very welcome downpour.  The first real rain for nearly 2 months couldn't have come soon enough when many families only have a single 1500 gallon tank for a single household. Not enough to break the drought that holds us, but just enough to wet our lips and bring us back from teetering over the edge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2508adeff4c99af607daf32e64d4a4da43dec1f.jpg"></article>]]></description>
+            <link>http://m.huffpost.com/us/entry/marshall-islands-climate-change_us_56796928e4b06fa6887ea12c</link>
+            <guid isPermaLink="false">6495152a-2103-409e-8fe8-2c5c4c51d5e2</guid>
+            <pubDate>Sun, 14 Feb 2016 22:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Distribution Room]]></title>
-            <description><![CDATA[<article><h1>Distribution Room</h1><p>This is the first step of distribution from here the power goes down the three different power lines and begins it journey to the customers house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07f7e92f6a1dba2db6a92adef3778e796bb04f6.jpg"></article>]]></description>
-            <link>undefineddistribution-room/index.html</link>
+            <description><![CDATA[<article><h1>Distribution Room</h1><p>This is the first step of distribution from here the power goes down the three different power lines and begins it journey to the customers house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/773a8c4bdd1989dcf587b8e0a1cfec12254591e3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/glen-in-majuro/distribution-room/index.html</link>
             <guid isPermaLink="false">68536635-142c-4830-b6a3-325f8634deff</guid>
             <pubDate>Fri, 08 Jan 2016 23:16:28 GMT</pubDate>
         </item>
